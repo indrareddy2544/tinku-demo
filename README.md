@@ -1,4 +1,4 @@
 # tinku-demo
 my first github
 <br>
-Author - indra
+Author - indra reddy
